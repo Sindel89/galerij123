@@ -1,0 +1,50 @@
+
+div {
+ background: linear-gradient(to top right, #33ccff 0%, #ff99cc 100%);
+ margin-left: auto;
+ margin-right: auto;
+ margin-top: 7px;
+   
+}
+
+
+
+
+footer {
+  text-align: center;
+  padding: 12px;
+  background: linear-gradient(90deg, hsla(139, 72%, 83%, 1) 0%, hsla(0, 0%, 1%, 1) 51%, hsla(229, 89%, 62%, 1) 100%);
+  color: white;
+  display: block;
+  position:static;
+  height: 40px;
+  margin-bottom: 100px;
+}
+
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  background-color: #333;
+}
+
+li {
+  float: left;
+}
+
+li a {
+  display: block;
+  color: white;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+}
+
+
+li a:hover {
+  background-color: #111;
+}
+
+
+
